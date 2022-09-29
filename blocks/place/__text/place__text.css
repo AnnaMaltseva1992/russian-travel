@@ -1,0 +1,10 @@
+.place__text {
+  display: grid;
+  row-gap: 27px;
+}
+
+@media screen and (max-width: 768px) {
+  .place__text {
+    row-gap: 25px;
+  }
+}
