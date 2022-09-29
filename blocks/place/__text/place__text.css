@@ -1,10 +1,18 @@
 .place__text {
-  display: grid;
+  display: flex;
+  flex-direction: column;
   row-gap: 27px;
 }
 
 @media screen and (max-width: 768px) {
   .place__text {
     row-gap: 25px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .place__text {
+    row-gap: 25px;
+    margin: 0 16px;
   }
 }

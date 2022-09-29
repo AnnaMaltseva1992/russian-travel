@@ -8,3 +8,7 @@
   padding: 0;
   text-decoration: underline;
 }
+
+.place__link:hover {
+  opacity: .8;
+}

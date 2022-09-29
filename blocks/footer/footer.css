@@ -20,7 +20,6 @@
 
 @media screen and (max-width: 425px) {
   .footer {
-    flex-direction: column;
-    row-gap: 48px;
+    align-items: start;
   }
 }
