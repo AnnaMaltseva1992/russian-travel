@@ -1,17 +1,10 @@
 .places__list {
   list-style: none;
-  display: flex;
-  flex-direction: column;
+  display: grid;
   align-items: center;
   row-gap: 80px;
   margin: 0;
   padding: 0;
-}
-
-@media screen and (min-width: 1280px){
-  .places__list {
-    width: 100%;
-  }
 }
 
 @media screen and (max-width: 768px) {

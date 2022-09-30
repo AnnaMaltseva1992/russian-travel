@@ -8,7 +8,6 @@
   color: #fff;
   width: 100%;
   max-width: 690px;
-  max-height: 58px;
 }
 
 @media screen and (max-width: 1000px) {
@@ -27,7 +26,6 @@
 @media screen and (max-width: 425px) {
   .intro__title {
     max-width: 288px;
-    max-height: 70px;
     font-size: 32px;
     line-height: 1.1;
   }
