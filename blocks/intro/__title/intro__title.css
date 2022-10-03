@@ -19,15 +19,12 @@
 @media screen and (max-width: 750px) {
   .intro__title {
     font-size: 32px;
-    line-height: 1.1;
   }
 }
 
 @media screen and (max-width: 425px) {
   .intro__title {
     max-width: 288px;
-    font-size: 32px;
-    line-height: 1.1;
   }
 }
 

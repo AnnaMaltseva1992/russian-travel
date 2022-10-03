@@ -4,11 +4,11 @@
   font-weight: 900;
   line-height: 1.05;
   color: #fff;
-  margin: 0 0 32px;
+  margin: 0 auto 32px;
   padding: 0;
   max-width: 560px;
-  max-height: 152px;
   text-align: center;
+  z-index: 1;
 }
 
 @media screen and (max-width: 600px) {
@@ -16,15 +16,13 @@
     font-size: 40px;
     line-height: 1.1;
     max-width: 400px;
-    max-height: 90px;
   }
 }
 
 @media screen and (max-width: 425px) {
   .cover__title {
+    margin-bottom: 16px;
     font-size: 32px;
-    line-height: 1.1;
     max-width: 288px;
-    max-height: 70px;
   }
 }
