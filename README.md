@@ -8,4 +8,4 @@ HTML, CSS, методология БЭМ
 1.Добавить форму обратной связи  
 2.Использовать JavaScript для интерактивности
 ## Ссылка
-https://github.com/AnnaMaltseva1992/russian-travel.git
+https://github.com/AnnaMaltseva1992/russian-travel/deployments/activity_log?environment=github-pages
